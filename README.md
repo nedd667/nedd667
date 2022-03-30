@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nedd667
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ...reactJs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...newProjects
 - 📫 How to reach me ...
 
 <!---
